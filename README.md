@@ -52,3 +52,5 @@ Padding percentage: 17.50 %
 
 Issues:
 Script shows incorrect paddings between virtual ancestors of the object
+
+Additional info (in russian) - https://spiiin.github.io/blog/1170009669/
